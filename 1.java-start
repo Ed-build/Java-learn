@@ -1,0 +1,23 @@
+一、java简史
+
+二、java程序运行机制
+1.高级语言的运行机制
+  按程序执行方式分编译型和解释型
+2.java程序运行机制和jvm
+  编译-->.class文件（与平台无关） -->jvm解释执行-->特定平台机器码
+  
+三、开发环境
+  1.开发环境介绍
+    javaSE--JDK，javaEE-EE，javaME
+    JDK（JRE（JVM））
+  2.环境变量
+    Path--定位java命令；classpath--定位类（没用了）。
+    
+四、简单java程序
+  编写--javac编译--java运行
+  
+五、java程序基本规则
+  1.java程序的组织形式
+  2.源文件命名
+  
+六、垃圾回收器
